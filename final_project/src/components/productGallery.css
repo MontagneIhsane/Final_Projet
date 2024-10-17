@@ -1,0 +1,9 @@
+.product-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    padding-top: 100px;
+}
