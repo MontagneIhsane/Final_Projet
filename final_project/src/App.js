@@ -1,11 +1,10 @@
 import React, { useState } from 'react';
-import ProductGallery from './compoents/productGallery';
-import CartModal from './compoents/cartMadal';
+import ProductGallery from './components/productGallery';
+import CartModal from './components/cartMadal';
 import { FaShoppingCart } from 'react-icons/fa';
-import Cart from './compoents/shoppingCart';
+import Cart from './components/shoppingCart';
 import './App.css';
-import './compoents/header.css';
-
+import './components/header';
 
 const App = () => {
     const [products] = useState([
