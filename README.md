@@ -24,7 +24,9 @@ cd final_project
 ```
 npm install
 ```
-
+```
+npm install react-icons
+```
 ## Running the Project
 
 1.Start the development server:
