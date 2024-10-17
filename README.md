@@ -1,7 +1,7 @@
 # React Exercise
 
 ## Description
-### This project is an exercise based on React, aimed at creating a product card in React
+### This project is an exercise based on React, where I have to create a Product Gallery and a Shopping Cart that is available 
 
 ## Getting Started
 ### Prerequisites
